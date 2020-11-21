@@ -66,7 +66,7 @@ table tr td:last-child {
   padding-bottom: 50px;
   text-align: center;
   border-radius: 5px;
-  color: rgb(24, 26, 114);
+  color: #002266;
   font-size: 2em;
 }
 
@@ -77,9 +77,24 @@ table tr td:last-child {
 }
 
 .selectSym button:first-of-type {
+  background-color: #6699ff;
   margin-right: 10px;
 }
 
 .selectSym button:last-of-type {
+  background-color: #6699ff;
   margin-left: 10px;
+}
+
+.replaybutton button {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 20px;
+  width: 200px;
+  top: 500px;
+  position: absolute;
+  left: 50%;
+  border-radius: 1.0em;
+  margin-left: -100px;
+  padding-bottom: 20x;
+  background-color: #6699ff;
 }
